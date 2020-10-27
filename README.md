@@ -20,13 +20,14 @@ An application where developers get to post their projects for reviews purposes.
 * Create database migrations python3 manage.py makemigrations photoz python3 manage.py migrate
 * Run the app python3 manage.py runserver
 
-## TECHNOLOGIES USED
-```
-Python
-Django
-Bootstrap
-```
+## Technologies Used
 
+- PYTHON
+- PIP
+- FLASK FRAMEWORK
+- BOOTSTRAP
+- CSS
+- POSTGRESS
 
 
 
@@ -40,14 +41,7 @@ Bootstrap
 
 
 
-## Technologies Used
 
-- PYTHON
-- PIP
-- FLASK FRAMEWORK
-- BOOTSTRAP
-- CSS
-- POSTGRESS
 
 ## Licence
 
