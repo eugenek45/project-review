@@ -49,11 +49,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-- Open your terminal and move to a directory where you would like to store the project eg. cd Documents
-- Use the command `git clone` to clone the aplication at `https://github.com/SkimaniKings/flask-blog`.
-- After cloning navigate to the project.
-- Run `pip install` to install all the dependencies
-- Now run the project using your terminal with the command `python3.6 app.py`
+
 
 ## Technologies Used
 
