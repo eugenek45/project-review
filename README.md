@@ -26,7 +26,7 @@ An application where developers get to post their projects for reviews purposes.
 - POSTGRESS
 
 ## Live-Link
- - You can view the project on your browser using this livelink. `https://simkim.herokuapp.com/`
+ - You can view the project on your browser using this livelink. `https://awarrdskip.herokuapp.com/`
  
 ## Licence
 
