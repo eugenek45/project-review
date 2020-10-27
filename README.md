@@ -39,11 +39,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 :satisfied:
 
-# Flask-Pitch
 
-## Description
 
-- This is a python-Flask application that has been created to enable users to create and post pitches.A User can be able to create an account and their information will be saved into the databse of the website. The User is able to create a post whereby they will be able to update and delete posts at free will.A users is also able to Upvote and Downvote blog posts according to his preferences.
 
 ## Project Screenshot
 
