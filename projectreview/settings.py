@@ -25,7 +25,7 @@ SECRET_KEY = '3e4a94df91f89c4d66a72ffdffac0d88653ef7269594af10'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://awarrdskip.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -82,14 +82,7 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'',
-        'USER': '',
-        'PASSWORD':'',
-    }
-}
+
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
