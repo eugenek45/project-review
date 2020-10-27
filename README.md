@@ -32,18 +32,6 @@ An application where developers get to post their projects for reviews purposes.
 ## Live-Link
  - You can view the project on your browser using this livelink. `https://simkim.herokuapp.com/`
  
-
-
-
-
-
-
-
-
-
-
-
-
 ## Licence
 
 The MIT License (MIT)
