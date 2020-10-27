@@ -2,8 +2,6 @@
 ### Awards
 
 
-
-
 ## USER STORIES
 An application where developers get to post their projects for reviews purposes.
 
