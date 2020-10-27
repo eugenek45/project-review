@@ -77,7 +77,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 - You can reach me through:
   0713813919
-  kimanisimon856@gmail.com
+  eugene kiprotich 
 
 ## Author
 
