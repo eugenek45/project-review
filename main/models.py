@@ -8,7 +8,6 @@ class Project(models.Model):
     name = models.CharField(max_length=300)
     image = models.ImageField(blank=True, null=True)
     reviewDate = models.DateTimeField(default=timezone.now())
-    
     languages = models.CharField(max_length=300)
     description = models.TextField(max_length=5000)
     projectLink = models.CharField(max_length=300)
@@ -19,7 +18,7 @@ class Project(models.Model):
 
 class Review(models.Model):
     # fields for the review table
-    # project = models.ForeignKey(Project, on_delete=models.CASCADE)
+    project = models.ForeignKey(Project, on_delete=models.CASCADE)
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     comment = models.TextField(max_length=1000)
     rating = models.FloatField(default=0)

@@ -4,7 +4,7 @@
 
 
 ## AUTHOR
-### Muthoni Stephen
+### Eugene kiprotich
 
 ## USER STORIES
 An application where developers get to post their projects for reviews purposes.
