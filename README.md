@@ -42,10 +42,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-## Project Screenshot
-
-- This is the Project Screenshot of the Home page
-![Flask-Blog-App](flaskblog/static/pics/Screenshot.png)
 
 ## Live-Link
  - You can view the project on your browser using this livelink. `https://simkim.herokuapp.com/`
