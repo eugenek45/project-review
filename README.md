@@ -48,7 +48,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Contact Details
 
 - You can reach me through:
-  0713813919
+  0723574552
   eugene kiprotich 
 
 ## Author
