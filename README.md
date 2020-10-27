@@ -29,13 +29,14 @@ An application where developers get to post their projects for reviews purposes.
 - CSS
 - POSTGRESS
 
-
-
-
-
 ## Live-Link
  - You can view the project on your browser using this livelink. `https://simkim.herokuapp.com/`
  
+
+
+
+
+
 
 
 
